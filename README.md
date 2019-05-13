@@ -7,6 +7,7 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [元素渲染](https://zh-hans.reactjs.org/docs/rendering-elements.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [组件 & Props](https://zh-hans.reactjs.org/docs/components-and-props.html)
 
@@ -21,6 +22,7 @@
 ### [表单](https://zh-hans.reactjs.org/docs/forms.html)
 
 ### [状态提升](https://zh-hans.reactjs.org/docs/lifting-state-up.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [组合 vs 继承](https://zh-hans.reactjs.org/docs/composition-vs-inheritance.html)
 
@@ -37,14 +39,17 @@
 ### [错误边界](https://zh-hans.reactjs.org/docs/error-boundaries.html)
 
 ### [Refs 转发](https://zh-hans.reactjs.org/docs/forwarding-refs.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [Fragments](https://zh-hans.reactjs.org/docs/fragments.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 
 ### [高阶组件](https://zh-hans.reactjs.org/docs/higher-order-components.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [与第三方库协同](https://zh-hans.reactjs.org/docs/integrating-with-other-libraries.html)
 
 ### [深入 JSX](https://zh-hans.reactjs.org/docs/jsx-in-depth.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [性能优化](https://zh-hans.reactjs.org/docs/optimizing-performance.html)
 

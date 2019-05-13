@@ -1,6 +1,6 @@
 # youfenba-react-learn
 
-### [jsx](https://zh-hans.reactjs.org/docs/introducing-jsx.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [jsx](https://zh-hans.reactjs.org/docs/introducing-jsx.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [元素渲染](https://zh-hans.reactjs.org/docs/rendering-elements.html)
 
@@ -34,7 +34,7 @@
 
 ### [Refs 转发](https://zh-hans.reactjs.org/docs/forwarding-refs.html)
 
-### [Fragments](https://zh-hans.reactjs.org/docs/fragments.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Fragments](https://zh-hans.reactjs.org/docs/fragments.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [高阶组件](https://zh-hans.reactjs.org/docs/higher-order-components.html)
 
@@ -52,15 +52,15 @@
 
 ### [Render Props](https://zh-hans.reactjs.org/docs/render-props.html)
 
-### [React TypeScript](https://zh-hans.reactjs.org/docs/static-type-checking.html#typescript)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [React TypeScript](https://zh-hans.reactjs.org/docs/static-type-checking.html#typescript) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
-### [严格模式](https://zh-hans.reactjs.org/docs/strict-mode.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>v
+### [严格模式](https://zh-hans.reactjs.org/docs/strict-mode.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [使用 PropTypes 进行类型检查](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html)
 
-### [非受控组件](https://zh-hans.reactjs.org/docs/uncontrolled-components.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [非受控组件](https://zh-hans.reactjs.org/docs/uncontrolled-components.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
-### [Web Components](https://zh-hans.reactjs.org/docs/web-components.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Web Components](https://zh-hans.reactjs.org/docs/web-components.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ## API
 
@@ -68,17 +68,17 @@
 
 ### [ReactDOM](https://zh-hans.reactjs.org/docs/react-dom.html)
 
-### [ReactDOMServer](https://zh-hans.reactjs.org/docs/react-dom-server.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [ReactDOMServer](https://zh-hans.reactjs.org/docs/react-dom-server.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [DOM 元素](https://zh-hans.reactjs.org/docs/dom-elements.html)
 
-### [合成事件](https://zh-hans.reactjs.org/docs/events.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [合成事件](https://zh-hans.reactjs.org/docs/events.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
-### [Test Utilities](https://zh-hans.reactjs.org/docs/test-utils.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Test Utilities](https://zh-hans.reactjs.org/docs/test-utils.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
-### [浅层渲染](https://zh-hans.reactjs.org/docs/shallow-renderer.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [浅层渲染](https://zh-hans.reactjs.org/docs/shallow-renderer.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
-### [Test Renderer](https://zh-hans.reactjs.org/docs/test-renderer.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Test Renderer](https://zh-hans.reactjs.org/docs/test-renderer.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [JavaScript 环境要求](https://zh-hans.reactjs.org/docs/javascript-environment-requirements.html)
 
@@ -86,9 +86,9 @@
 
 ## Hook (重点)
 
-### [Hook 简介](https://zh-hans.reactjs.org/docs/hooks-intro.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Hook 简介](https://zh-hans.reactjs.org/docs/hooks-intro.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
-### [Hook 概览](https://zh-hans.reactjs.org/docs/hooks-overview.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Hook 概览](https://zh-hans.reactjs.org/docs/hooks-overview.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [使用 State Hook](https://zh-hans.reactjs.org/docs/hooks-state.html)
 
@@ -104,11 +104,11 @@
 
 ## 贡献 (了解)
 
-### [How to Contribute](https://zh-hans.reactjs.org/docs/how-to-contribute.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [How to Contribute](https://zh-hans.reactjs.org/docs/how-to-contribute.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
-### [Codebase Overview](https://zh-hans.reactjs.org/docs/codebase-overview.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Codebase Overview](https://zh-hans.reactjs.org/docs/codebase-overview.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
-### [Implementation Notes](https://zh-hans.reactjs.org/docs/implementation-notes.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Implementation Notes](https://zh-hans.reactjs.org/docs/implementation-notes.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [Design Principles](https://zh-hans.reactjs.org/docs/design-principles.html)
 
@@ -116,7 +116,7 @@
 
 ### [AJAX and APIs](https://zh-hans.reactjs.org/docs/faq-ajax.html)
 
-### [Babel，JSX 及构建过程](https://zh-hans.reactjs.org/docs/faq-build.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [Babel，JSX 及构建过程](https://zh-hans.reactjs.org/docs/faq-build.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [在组件中使用事件处理函数](https://zh-hans.reactjs.org/docs/faq-functions.html)
 
@@ -124,7 +124,7 @@
 
 ### [样式与 CSS](https://zh-hans.reactjs.org/docs/faq-styling.html)
 
-### [项目文件结构](https://zh-hans.reactjs.org/docs/faq-structure.html)<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解<span>
+### [项目文件结构](https://zh-hans.reactjs.org/docs/faq-structure.html) (<span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>)
 
 ### [Virtual DOM 及内核](https://zh-hans.reactjs.org/docs/faq-internals.html)
 

@@ -47,14 +47,19 @@
 ### [深入 JSX](https://zh-hans.reactjs.org/docs/jsx-in-depth.html)
 
 ### [性能优化](https://zh-hans.reactjs.org/docs/optimizing-performance.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [Portals](https://zh-hans.reactjs.org/docs/portals.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [协调](https://zh-hans.reactjs.org/docs/reconciliation.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [Refs and the DOM](https://zh-hans.reactjs.org/docs/refs-and-the-dom.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [Render Props](https://zh-hans.reactjs.org/docs/render-props.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [React TypeScript](https://zh-hans.reactjs.org/docs/static-type-checking.html#typescript) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 

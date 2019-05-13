@@ -7,3 +7,7 @@
 ### [minirefresh](https://github.com/minirefresh/minirefresh)
 
 优雅的 H5 下拉刷新。零依赖，高性能，多主题，易拓展。
+
+## [it_resources](https://github.com/qqxs/it_resources)
+
+我整理的开发的资源

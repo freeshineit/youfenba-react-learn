@@ -7,8 +7,10 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [元素渲染](https://zh-hans.reactjs.org/docs/rendering-elements.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [组件 & Props](https://zh-hans.reactjs.org/docs/components-and-props.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [State & 生命周期](https://zh-hans.reactjs.org/docs/state-and-lifecycle.html)
 
@@ -37,24 +39,32 @@
 ### [错误边界](https://zh-hans.reactjs.org/docs/error-boundaries.html)
 
 ### [Refs 转发](https://zh-hans.reactjs.org/docs/forwarding-refs.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [Fragments](https://zh-hans.reactjs.org/docs/fragments.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 
 ### [高阶组件](https://zh-hans.reactjs.org/docs/higher-order-components.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [与第三方库协同](https://zh-hans.reactjs.org/docs/integrating-with-other-libraries.html)
 
 ### [深入 JSX](https://zh-hans.reactjs.org/docs/jsx-in-depth.html)
+-   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [性能优化](https://zh-hans.reactjs.org/docs/optimizing-performance.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [Portals](https://zh-hans.reactjs.org/docs/portals.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [协调](https://zh-hans.reactjs.org/docs/reconciliation.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [Refs and the DOM](https://zh-hans.reactjs.org/docs/refs-and-the-dom.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [Render Props](https://zh-hans.reactjs.org/docs/render-props.html)
+-   [ ] [xuyilin](https://github.com/xudalin)
 
 ### [React TypeScript](https://zh-hans.reactjs.org/docs/static-type-checking.html#typescript) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 
@@ -159,21 +169,26 @@
 ## FAQ
 
 ### [AJAX and APIs](https://zh-hans.reactjs.org/docs/faq-ajax.html)
+-   [ ] [hyj96228](https://github.com/hyj96228)
 
 ### [Babel，JSX 及构建过程](https://zh-hans.reactjs.org/docs/faq-build.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [在组件中使用事件处理函数](https://zh-hans.reactjs.org/docs/faq-functions.html)
+-   [ ] [hyj96228](https://github.com/hyj96228)
 
 ### [组件状态](https://zh-hans.reactjs.org/docs/faq-state.html)
+-   [ ] [hyj96228](https://github.com/hyj96228)
 
 ### [样式与 CSS](https://zh-hans.reactjs.org/docs/faq-styling.html)
+-   [ ] [hyj96228](https://github.com/hyj96228)
 
 ### [项目文件结构](https://zh-hans.reactjs.org/docs/faq-structure.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [Virtual DOM 及内核](https://zh-hans.reactjs.org/docs/faq-internals.html)
+-   [ ] [hyj96228](https://github.com/hyj96228)
 
 ### [React Fiber](https://github.com/acdlite/react-fiber-architecture)

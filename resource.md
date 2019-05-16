@@ -13,3 +13,13 @@
 ## [it_resources](https://github.com/qqxs/it_resources)
 
 我整理的开发的资源
+
+## [雅虎网站页面性能优化的 34 条黄金守则](https://www.jianshu.com/p/6eddae79e40f)
+
+## [JavaScript Standard Style ](https://standardjs.com/readme-zhcn.html)
+
+## [33-js-concepts 中文版](https://github.com/stephentian/33-js-concepts)
+
+## [33-js-concepts 英文版](https://github.com/leonardomso/33-js-concepts)
+
+## [Airbnb JavaScript 编码规范指南(ES6)中文版](https://github.com/libertyAlone/airbnb-javascript-style-guide-cn)

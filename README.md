@@ -16,7 +16,7 @@
 
 ### [State & 生命周期](https://zh-hans.reactjs.org/docs/state-and-lifecycle.html)
 
-- [ ] [midnight630](https://github.com/midnight630)
+-   [ ] [midnight630](https://github.com/midnight630)
 
 [react new leftcycle](https://github.com/freeshineit/react-blog/issues/1)
 
@@ -30,23 +30,23 @@
 
 ### [列表 & Key](https://zh-hans.reactjs.org/docs/lists-and-keys.html)
 
-- [ ] [midnight630](https://github.com/midnight630)
+-   [ ] [midnight630](https://github.com/midnight630)
 
 ### [表单](https://zh-hans.reactjs.org/docs/forms.html)
 
-- [ ] [midnight630](https://github.com/midnight630)
+-   [ ] [midnight630](https://github.com/midnight630)
 
 ### [状态提升](https://zh-hans.reactjs.org/docs/lifting-state-up.html)
 
-- [ ] [midnight630](https://github.com/midnight630)
+-   [ ] [midnight630](https://github.com/midnight630)
 
 ### [组合 vs 继承](https://zh-hans.reactjs.org/docs/composition-vs-inheritance.html)
 
-- [ ] [midnight630](https://github.com/midnight630)
+-   [ ] [midnight630](https://github.com/midnight630)
 
 ### [React 哲学](https://zh-hans.reactjs.org/docs/thinking-in-react.html)
 
-- [ ] [midnight630](https://github.com/midnight630)
+-   [ ] [midnight630](https://github.com/midnight630)
 
 ## 高级
 
@@ -69,6 +69,8 @@
 -   [ ] [Msfrist](https://github.com/Mrfrist)
 
 ### [Fragments](https://zh-hans.reactjs.org/docs/fragments.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
+
+-   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [高阶组件](https://zh-hans.reactjs.org/docs/higher-order-components.html)
 

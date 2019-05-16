@@ -16,6 +16,10 @@
 
 ### [State & 生命周期](https://zh-hans.reactjs.org/docs/state-and-lifecycle.html)
 
+-   [ ] [freeshineit](https://github.com/freeshineit)
+
+[react new leftcycle](https://github.com/freeshineit/react-blog/issues/1)
+
 ### [事件处理](https://zh-hans.reactjs.org/docs/handling-events.html)
 
 -   [ ] [Nxm21](https://github.com/Nxm21)

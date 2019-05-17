@@ -111,6 +111,7 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [使用 PropTypes 进行类型检查](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html)
+-   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
@@ -125,10 +126,12 @@
 ## API
 
 ### [React 顶层 API](https://zh-hans.reactjs.org/docs/react-api.html)
+-   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
 ### [ReactDOM](https://zh-hans.reactjs.org/docs/react-dom.html)
+-   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
@@ -157,6 +160,7 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [JavaScript 环境要求](https://zh-hans.reactjs.org/docs/javascript-environment-requirements.html)
+-   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
@@ -245,3 +249,4 @@
 -   [ ] [hyj96228](https://github.com/hyj96228)
 
 ### [React Fiber](https://github.com/acdlite/react-fiber-architecture)
+-   [ ] [houyanmin](https://github.com/houyanmin)

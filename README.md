@@ -111,6 +111,7 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [使用 PropTypes 进行类型检查](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html)
+-   [ ] [houyanmin](https://github.com/houyanmin)
 
 ### [非受控组件](https://zh-hans.reactjs.org/docs/uncontrolled-components.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 

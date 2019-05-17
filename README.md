@@ -124,8 +124,10 @@
 ## API
 
 ### [React 顶层 API](https://zh-hans.reactjs.org/docs/react-api.html)
+-   [ ] [houyanmin](https://github.com/houyanmin)
 
 ### [ReactDOM](https://zh-hans.reactjs.org/docs/react-dom.html)
+-   [ ] [houyanmin](https://github.com/houyanmin)
 
 ### [ReactDOMServer](https://zh-hans.reactjs.org/docs/react-dom-server.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 
@@ -150,6 +152,7 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [JavaScript 环境要求](https://zh-hans.reactjs.org/docs/javascript-environment-requirements.html)
+-   [ ] [houyanmin](https://github.com/houyanmin)
 
 ### [React 术语词汇表](https://zh-hans.reactjs.org/docs/glossary.html) [Glossary of React Terms](https://reactjs.org/docs/glossary.html)
 
@@ -236,3 +239,4 @@
 -   [ ] [hyj96228](https://github.com/hyj96228)
 
 ### [React Fiber](https://github.com/acdlite/react-fiber-architecture)
+-   [ ] [houyanmin](https://github.com/houyanmin)

@@ -4,33 +4,33 @@
 
 ### [jsx](https://zh-hans.reactjs.org/docs/introducing-jsx.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
 
--   [ ] [freeshineit](https://github.com/freeshineit)
+-   [x] [freeshineit](https://github.com/freeshineit)
 
 ### [元素渲染](https://zh-hans.reactjs.org/docs/rendering-elements.html)
 
--   [ ] [Msfrist](https://github.com/Mrfrist)
+-   [x] [Msfrist](https://github.com/Mrfrist)
 
 ### [组件 & Props](https://zh-hans.reactjs.org/docs/components-and-props.html)
 
--   [ ] [Msfrist](https://github.com/Mrfrist)
+-   [x] [Msfrist](https://github.com/Mrfrist)
 
 ### [State & 生命周期](https://zh-hans.reactjs.org/docs/state-and-lifecycle.html)
 
--   [ ] [midnight630](https://github.com/midnight630)
+-   [x] [midnight630](https://github.com/midnight630)
 
 [react new leftcycle](https://github.com/freeshineit/react-blog/issues/1)
 
 ### [事件处理](https://zh-hans.reactjs.org/docs/handling-events.html)
 
--   [ ] [Nxm21](https://github.com/Nxm21)
+-   [x] [Nxm21](https://github.com/Nxm21)
 
 ### [条件渲染](https://zh-hans.reactjs.org/docs/conditional-rendering.html)
 
--   [ ] [Nxm21](https://github.com/Nxm21)
+-   [x] [Nxm21](https://github.com/Nxm21)
 
 ### [列表 & Key](https://zh-hans.reactjs.org/docs/lists-and-keys.html)
 
--   [ ] [midnight630](https://github.com/midnight630)
+-   [x] [midnight630](https://github.com/midnight630)
 
 ### [表单](https://zh-hans.reactjs.org/docs/forms.html)
 
@@ -111,6 +111,7 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [使用 PropTypes 进行类型检查](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html)
+
 -   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
@@ -126,11 +127,13 @@
 ## API
 
 ### [React 顶层 API](https://zh-hans.reactjs.org/docs/react-api.html)
+
 -   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
 ### [ReactDOM](https://zh-hans.reactjs.org/docs/react-dom.html)
+
 -   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
@@ -160,6 +163,7 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [JavaScript 环境要求](https://zh-hans.reactjs.org/docs/javascript-environment-requirements.html)
+
 -   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
@@ -249,4 +253,5 @@
 -   [ ] [hyj96228](https://github.com/hyj96228)
 
 ### [React Fiber](https://github.com/acdlite/react-fiber-architecture)
+
 -   [ ] [houyanmin](https://github.com/houyanmin)

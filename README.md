@@ -34,19 +34,19 @@
 
 ### [表单](https://zh-hans.reactjs.org/docs/forms.html)
 
--   [ ] [midnight630](https://github.com/midnight630)
+-   [x] [midnight630](https://github.com/midnight630)
 
 ### [状态提升](https://zh-hans.reactjs.org/docs/lifting-state-up.html)
 
--   [ ] [midnight630](https://github.com/midnight630)
+-   [x] [midnight630](https://github.com/midnight630)
 
 ### [组合 vs 继承](https://zh-hans.reactjs.org/docs/composition-vs-inheritance.html)
 
--   [ ] [midnight630](https://github.com/midnight630)
+-   [x] [midnight630](https://github.com/midnight630)
 
 ### [React 哲学](https://zh-hans.reactjs.org/docs/thinking-in-react.html)
 
--   [ ] [midnight630](https://github.com/midnight630)
+-   [x] [midnight630](https://github.com/midnight630)
 
 ## 高级
 

@@ -52,15 +52,15 @@
 
 ### [无障碍辅助功能](https://zh-hans.reactjs.org/docs/accessibility.html)
 
--   [ ] [Nxm21](https://github.com/Nxm21)
+-   [x] [Nxm21](https://github.com/Nxm21)
 
 ### [代码分割](https://zh-hans.reactjs.org/docs/code-splitting.html)
 
--   [ ] [Nxm21](https://github.com/Nxm21)
+-   [x] [Nxm21](https://github.com/Nxm21)
 
 ### [Context](https://zh-hans.reactjs.org/docs/context.html)
 
--   [ ] [Nxm21](https://github.com/Nxm21)
+-   [x] [Nxm21](https://github.com/Nxm21)
 
 ### [错误边界](https://zh-hans.reactjs.org/docs/error-boundaries.html)
 

@@ -112,8 +112,6 @@
 
 ### [使用 PropTypes 进行类型检查](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html)
 
--   [ ] [houyanmin](https://github.com/houyanmin)
-
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
 ### [非受控组件](https://zh-hans.reactjs.org/docs/uncontrolled-components.html) <span style="font-size: 14px; color:#ffe564; margin-left: 10px;">了解</span>
@@ -128,13 +126,9 @@
 
 ### [React 顶层 API](https://zh-hans.reactjs.org/docs/react-api.html)
 
--   [ ] [houyanmin](https://github.com/houyanmin)
-
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
 ### [ReactDOM](https://zh-hans.reactjs.org/docs/react-dom.html)
-
--   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
@@ -163,8 +157,6 @@
 -   [ ] [freeshineit](https://github.com/freeshineit)
 
 ### [JavaScript 环境要求](https://zh-hans.reactjs.org/docs/javascript-environment-requirements.html)
-
--   [ ] [houyanmin](https://github.com/houyanmin)
 
 -   [ ] [wlfsgswg](https://github.com/wlfsgswg)
 
